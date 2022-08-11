@@ -2,7 +2,7 @@
   "name": "design",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nanducosmic.github.io/react-web",
+  "homepage": "https://nanducosmic.github.io",
   "dependencies": {
     "@splinetool/react-spline": "^2.2.1",
     "@testing-library/jest-dom": "^5.16.5",
